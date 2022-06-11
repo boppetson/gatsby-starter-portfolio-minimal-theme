@@ -1,58 +1,59 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "🧪 Effective usability testing",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "📝 Detailed user research",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "💎 Insightful data analysis",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Figma",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/figmalogo.png",
+        "alt": "Figma"
+      }
+    },
+    {
+      "label": "Photoshop and Illustrator",
+      "image": {
+        "src": "../../images/adobelogo.png",
+        "alt": "Adobe Creative Cloud"
+      }
+    },
+ 
+    {
+      "label": "📊 Stata",
+      "image": {
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "🌎 ArcGIS",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "🕸️ Javascript, HTML, CSS",
       "image": {
-        "src": "../../images/mobile-phone.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Modern Tech-Stack",
-      "image": {
-        "src": "../../images/gatsby.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Blazing Fast",
-      "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "",
         "alt": ""
       }
     }
@@ -60,6 +61,6 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 3
   }
 }

@@ -2,46 +2,61 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "🌱 PERSONAL PROJECT",
+      "title": "Redesigning My College's Covid Testing Process",
+      "description": "The old process left our health center understaffed and overstressed. So, I redesigned it and removed several key pain points to encourage greater usage from students.",
+      "tags": ["User research", "Iterative design"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/bookanappt.PNG",
+        "alt": "Redesigning My College's Testing Process",
+        "linkTo": "https://medium.com/@boppetson/redesigning-my-colleges-covid-testing-process-1482109b03cd"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://medium.com/@boppetson/redesigning-my-colleges-covid-testing-process-1482109b03cd"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "📘 SENIOR THESIS",
+      "title": "The Politics and Usability of Unemployment Insurance Websites",
+      "description": "I evaluated how usable all 50 state's unemployment website were and examined the possible predictors of it's quality. In the end, politics appears to influence usability.",
+      "tags": ["Data analysis", "Usability testing"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/usabilitymap.png",
+        "alt": "Usability map",
+        "linkTo": "https://drive.google.com/file/d/1UD_l-WxE_xWiZ1XSsKQzMYrnUglmTksC/view?usp=sharing"
       },
       "links": [
         {
-          "type": "github",
+          "type": "external",
+          "url": "https://drive.google.com/file/d/1UD_l-WxE_xWiZ1XSsKQzMYrnUglmTksC/view?usp=sharing"
+        } 
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🚀 STARTUP",
+      "title": "Automating a Worflow for Twitch Streamers",
+      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "tags": ["Product design", "User research"],
+      "image": {
+        "src": "../../images/twitch.jpg",
+        "alt": "Twitch",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
+        {
+          "type": "external",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
