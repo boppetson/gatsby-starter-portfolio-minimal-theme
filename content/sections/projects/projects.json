@@ -39,7 +39,7 @@
     {
       "visible": true,
       "category": "🚀 STARTUP",
-      "title": "Automating a Worflow for Twitch Streamers",
+      "title": "Automating a Workflow for Twitch Streamers",
       "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
       "tags": ["Product design", "User research"],
       "image": {
@@ -53,7 +53,26 @@
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "🎨 Art",
+      "title": "Personal Art Projects",
+      "description": "I primarily do graphic design and illustrations. Click to explore all of my art.",
+      "tags": [],
+      "image": {
+        "src": "../../images/selfportrait.png",
+        "alt": "Link to my art website",
+        "linkTo": "https://boppetson.myportfolio.com/"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://boppetson.myportfolio.com/"
+        }
+      ]
     }
+
   ],
   "button": {
     "visible": false,

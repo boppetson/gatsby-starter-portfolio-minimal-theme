@@ -8,14 +8,14 @@
       }
     },
     {
-      "label": "📝 Detailed user research",
+      "label": "💎 Insightful data analysis",
       "image": {
         "src": "",
         "alt": ""
       }
     },
     {
-      "label": "💎 Insightful data analysis",
+      "label": "💡 Learning from mistakes",
       "image": {
         "src": "",
         "alt": ""
@@ -52,6 +52,13 @@
     },
     {
       "label": "🕸️ Javascript, HTML, CSS",
+      "image": {
+        "src": "",
+        "alt": ""
+      }
+    },
+    {
+      "label": "And more!",
       "image": {
         "src": "",
         "alt": ""
