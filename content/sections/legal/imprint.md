@@ -4,12 +4,11 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Ben Davies<br />
+Washington DC<br />
+United States of America
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-mail Address: <u>boppetson@gmail.com</u>
 
 ---
 
