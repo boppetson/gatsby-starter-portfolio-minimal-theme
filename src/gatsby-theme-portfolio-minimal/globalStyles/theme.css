@@ -1,27 +1,27 @@
 body[data-theme='lightTheme'] {
     --primary-color: #000000;
-    --secondary-color: #fff4d9;
-    --tertiary-color: #f2f2f2;
+    --secondary-color: #5da9e9;
+    --tertiary-color: #5da9e9;
     --text-color: #000000;
     --subtext-color: #555555;
     --background-color: #ffffff;
     --card-background-color: #ffffff;
     --scroll-bar-color: rgba(0, 0, 0, 0.5);
     --box-shadow-color: rgba(0, 0, 0, 0.16);
-    --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
+    --box-shadow-hover-color: rgba(93, 169, 233, 0.9);
     --base-font: 'Roboto', Arial, sans-serif;
 }
 
 body[data-theme='darkTheme'] {
     --primary-color: #fafafa;
-    --secondary-color: #5DA9E9;
-    --tertiary-color: #90BE6D;
+    --secondary-color: #5da9e9;
+    --tertiary-color: #5DA9E9;
     --text-color: rgba(255, 255, 255, 0.87);
     --subtext-color: #fafafa;
     --background-color: #14213D;
     --card-background-color: #1c1c1c;
     --scroll-bar-color: rgba(255, 255, 255, 0.5);
     --box-shadow-color: rgba(0, 0, 0, 0.16);
-    --box-shadow-hover-color: rgba(67, 100, 54, 0.32);
+    --box-shadow-hover-color: rgba(93, 169, 233, 0.9);
     --base-font: 'Roboto', Arial, sans-serif;
 }
