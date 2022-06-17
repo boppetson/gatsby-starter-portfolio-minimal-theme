@@ -16,9 +16,9 @@ export default function IndexPage() {
       <Seo title="Ben Davies" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
+        <AboutSection sectionId="about" heading="About Me" />
         <ProjectsSection sectionId="projects" heading="Projects" />
         <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Me" />
         <InterestsSection sectionId="interests" heading="Things I like" />
         <ContactSection sectionId="contact" heading="Let's Talk" />
       </Page>
