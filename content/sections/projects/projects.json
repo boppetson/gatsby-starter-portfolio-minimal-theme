@@ -39,18 +39,18 @@
     {
       "visible": true,
       "category": "🚀 STARTUP",
-      "title": "Automating a Workflow for Twitch Streamers",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
+      "title": "Automating Work for Twitch Streamers",
+      "description": "Designing, building, and testing a product to reduce Twitch streamers' workloads.",
       "tags": ["Product design", "User research"],
       "image": {
         "src": "../../images/twitch.jpg",
         "alt": "Twitch",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://medium.com/@boppetson/automating-work-for-twitch-streamers-a9e680df31c"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://medium.com/@boppetson/automating-work-for-twitch-streamers-a9e680df31c"
         }
       ]
     },

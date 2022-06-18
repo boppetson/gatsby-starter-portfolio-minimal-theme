@@ -1,7 +1,7 @@
 {
   "interests": [
     {
-      "label": "🧪 Effective usability testing",
+      "label": "👂 Empathizing with users",
       "image": {
         "src": "",
         "alt": ""
@@ -29,7 +29,7 @@
       }
     },
     {
-      "label": "Photoshop and Illustrator",
+      "label": "Illustrator / Photoshop",
       "image": {
         "src": "../../images/adobelogo.png",
         "alt": "Adobe Creative Cloud"
@@ -51,7 +51,7 @@
       }
     },
     {
-      "label": "🕸️ Javascript, HTML, CSS",
+      "label": "🕸️ Javascript",
       "image": {
         "src": "",
         "alt": ""
