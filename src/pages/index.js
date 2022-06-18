@@ -14,7 +14,7 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Ben Davies" />
-      <Page useSplashScreenAnimation>
+      <Page>
         <HeroSection sectionId="hero" />
         <AboutSection sectionId="about" heading="About Me" />
         <ProjectsSection sectionId="projects" heading="Projects" />
