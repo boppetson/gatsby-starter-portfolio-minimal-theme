@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "🌱 PERSONAL PROJECT",
+      "category": "🛠️ The design process",
       "title": "Redesigning My College's Covid Testing Process",
       "description": "The old process left our health center understaffed and overstressed. So, I redesigned it and removed several key pain points to encourage greater usage from students.",
       "tags": ["User research", "Iterative design"],
@@ -20,12 +20,12 @@
     },
     {
       "visible": true,
-      "category": "📘 SENIOR THESIS",
+      "category": "🔬 Research and Analysis",
       "title": "The Politics and Usability of Unemployment Insurance Websites",
       "description": "I evaluated how usable all 50 state's unemployment website were and examined the possible predictors of its quality. In the end, politics appears to influence usability.",
       "tags": ["Data analysis", "Usability testing"],
       "image": {
-        "src": "../../images/usabilitymap.png",
+        "src": "../../images/NEusabilitymap.png",
         "alt": "Usability map",
         "linkTo": "https://medium.com/@boppetson/the-politics-and-usability-of-unemployment-insurance-websites-2c312f1fdb9c"
       },
@@ -38,22 +38,23 @@
     },
     {
       "visible": true,
-      "category": "🚀 STARTUP",
-      "title": "Automating Work for Twitch Streamers",
-      "description": "Designing, building, and testing a product to reduce Twitch streamers' workloads.",
-      "tags": ["Product design", "User research"],
+      "category": "🖥️ Website Design",
+      "title": "Meet Jorge, My Houseplant",
+      "description": "A fleshed-out mockup website built with Figma. Explore the prototype and learn about the little green man in my house.",
+      "tags": [],
       "image": {
-        "src": "../../images/twitch.jpg",
-        "alt": "Twitch",
-        "linkTo": "https://medium.com/@boppetson/automating-work-for-twitch-streamers-a9e680df31c"
+        "src": "../../images/jorge.png",
+        "alt": "Link to Jorge's website mockup",
+        "linkTo": "https://www.figma.com/proto/aVNvGzzEWwqp8nW7MdKRPM/Jorge?node-id=2%3A2&viewport=628%2C261%2C0.31&scaling=min-zoom&starting-point-node-id=2%3A2&hide-ui=1"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://medium.com/@boppetson/automating-work-for-twitch-streamers-a9e680df31c"
+          "url": "https://www.figma.com/proto/aVNvGzzEWwqp8nW7MdKRPM/Jorge?node-id=2%3A2&viewport=628%2C261%2C0.31&scaling=min-zoom&starting-point-node-id=2%3A2&hide-ui=1"
         }
       ]
     },
+  
     {
       "visible": true,
       "category": "🎨 Art",
@@ -71,7 +72,26 @@
           "url": "https://boppetson.myportfolio.com/"
         }
       ]
+    },  
+    {
+      "visible": false,
+      "category": "🚀 STARTUP",
+      "title": "Automating Work for Twitch Streamers",
+      "description": "Designing, building, and testing a product to reduce Twitch streamers' workloads.",
+      "tags": ["Product design", "User research"],
+      "image": {
+        "src": "../../images/twitch.jpg",
+        "alt": "Twitch",
+        "linkTo": "https://medium.com/@boppetson/automating-work-for-twitch-streamers-a9e680df31c"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://medium.com/@boppetson/automating-work-for-twitch-streamers-a9e680df31c"
+        }
+      ]
     }
+
 
   ],
   "button": {
