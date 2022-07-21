@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "🛠️ The design process",
+      "category": "🛠️ UX Design",
       "title": "Redesigning My College's Covid Testing Process",
       "description": "The old process left our health center understaffed and overstressed. So, I redesigned it and removed several key pain points to encourage greater usage from students.",
       "tags": ["User research", "Iterative design"],
@@ -41,7 +41,7 @@
       "category": "🖥️ Website Design",
       "title": "Meet Jorge, My Houseplant",
       "description": "A fleshed-out mockup website built with Figma. Explore the prototype and learn about the little green man in my house.",
-      "tags": [],
+      "tags": ["Prototyping"],
       "image": {
         "src": "../../images/jorge.png",
         "alt": "Link to Jorge's website mockup",
